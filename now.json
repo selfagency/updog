@@ -7,10 +7,6 @@
       "handle": "filesystem"
     },
     {
-      "src": "/",
-      "dest": "/index.html"
-    },
-    {
       "src": "/what-is",
       "dest": "/what-is.html"
     }
