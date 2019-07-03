@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "name": "updog.pw",
+  "alias": "updog.pw",
+  "routes": [
+    {
+      "handle": "filesystem"
+    },
+    {
+      "src": "/",
+      "dest": "/index.html"
+    },
+    {
+      "src": "/what-is",
+      "dest": "/what-is.html"
+    }
+  ]
+}
